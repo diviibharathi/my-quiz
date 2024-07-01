@@ -1,0 +1,11 @@
+.correct {
+    background: green;
+}
+
+.wrong {
+    background: red;
+}
+
+.question {
+    border: 1px solid black;
+}
